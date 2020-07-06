@@ -1,0 +1,20 @@
+host: 0.0.0.0
+favicon: /assets/images/favicon.svg
+title: 一个爱玩游戏的懒人
+author: Mengzhen-Zong
+description: >-
+    一个玩了二十多年游戏的废物，玩了这么多年游戏却没有在游戏上取得任何成就。
+    为了游戏而学了编程，却发现学会了学校里面教的东西自己还是不会写游戏，到头来\
+    啥也不会。
+github_username: Mengzhen-Zong
+github_url: https://www.github.com
+email: mengzhen_zong@qq.com
+
+defaults:
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            author: "Mengzhen-Zong"
+            layout: "post"

@@ -1,0 +1,9 @@
+# jekyll
+/_site
+/.sass-cache
+
+# vscode
+/.vscode
+
+# custom file for test
+*test*.*
