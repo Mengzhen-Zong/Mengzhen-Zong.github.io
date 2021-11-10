@@ -8,8 +8,10 @@ permalink: /about/
 
 ## 玩过的游戏
 
+* A Dance of Fire and Ice
 * Dark Souls III
-* kenshi
+* Don't Starve
+* Kenshi
 * No Man Sky
 * Sekero: Die twice
 * Terraria
