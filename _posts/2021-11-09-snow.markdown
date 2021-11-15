@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "雪景"
+date:   2021-11-09 00:00:00 +0800
+categories: diary
+---
+
+![这里本来有图片](/resources/imgs/2021-11-09-snow/雪景-树.jpg)
+
+![这里本来有图片](/resources/imgs/2021-11-09-snow/雪景-雪碉堡.jpg)
+
+![这里本来有图片](/resources/imgs/2021-11-09-snow/雪景-雪人.jpg)
+
+![这里本来有图片](/resources/imgs/2021-11-09-snow/雪景-夜晚的街道.jpg)
